@@ -1,4 +1,4 @@
-# Welcome to gitlab-training documentation
+# Welcome to System tool documentation
 
 # Gitlab-ci training
 
