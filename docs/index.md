@@ -1,4 +1,4 @@
-# Welcome to Sysinfo documentation
+# Welcome to System tool documentation
 
 # Gitlab-ci training
 
