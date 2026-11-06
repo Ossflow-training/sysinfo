@@ -1,4 +1,4 @@
-# Gitlab-ci training
+# System tool 
 
 Setup CI/CD pipeline for sysinfo project
 
